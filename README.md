@@ -43,7 +43,8 @@ always @(*) begin
 end
 endmodule
 
-Logical circuit of the above expressions is given below: [unknown.bmp](https://github.com/user-attachments/files/24207643/unknown.bmp)
+Logical circuit of the above expressions is given below: [ex.05.dia.pdf](https://github.com/user-attachments/files/24207660/ex.05.dia.pdf)
+
 
 
 waveform: [unknown.bmp](https://github.com/user-attachments/files/24207638/unknown.bmp)
