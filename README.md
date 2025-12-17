@@ -43,9 +43,11 @@ always @(*) begin
 end
 endmodule
 
-Logical circuit of the above expressions is given below: ex 05 dia.pdf
+Logical circuit of the above expressions is given below: [unknown.bmp](https://github.com/user-attachments/files/24207643/unknown.bmp)
 
-waveform: unknown.bmp
+
+waveform: [unknown.bmp](https://github.com/user-attachments/files/24207638/unknown.bmp)
+
 
 NAME : INDHUJA K
 
